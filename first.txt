@@ -1,2 +1,2 @@
 This is my first use the git!!!
-I am repo2 and I want  to push myself to git remote!!!
+I am repo2 and I want  to push some words to repo1 git remote!!!
